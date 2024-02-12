@@ -6,7 +6,7 @@
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
     "name": "_$QueryModule2_1$_QueryModule2",
-    "pageId": "Page1",
+    "pageId": "Page2",
     "contextType": "PAGE",
     "isValid": true,
     "invalids": [],
@@ -17,7 +17,7 @@
     "userPermissions": [],
     "createdAt": "2024-02-12T15:11:30Z"
   },
-  "id": "Page1__$QueryModule2_1$_QueryModule2",
+  "id": "Page2__$QueryModule2_1$_QueryModule2",
   "deleted": false,
-  "gitSyncId": "65ca3bfe630a3b0fe3460d58_65ca3c0e630a3b0fe3460d6c"
+  "gitSyncId": "65ca4559630a3b0fe3461148_65ca50f7ed35db48922c3f98"
 }
