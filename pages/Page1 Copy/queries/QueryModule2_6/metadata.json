@@ -1,12 +1,12 @@
 {
-  "moduleInstanceId": "Page1_QueryModule2_6",
+  "moduleInstanceId": "Page1 Copy_QueryModule2_6",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1_QueryModule2_6",
+  "rootModuleInstanceId": "Page1 Copy_QueryModule2_6",
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
     "name": "_$QueryModule2_6$_QueryModule2",
-    "pageId": "Page1",
+    "pageId": "Page1 Copy",
     "contextType": "PAGE",
     "isValid": true,
     "invalids": [],
@@ -17,7 +17,7 @@
     "userPermissions": [],
     "createdAt": "2024-02-12T15:11:30Z"
   },
-  "id": "Page1__$QueryModule2_6$_QueryModule2",
+  "id": "Page1 Copy__$QueryModule2_6$_QueryModule2",
   "deleted": false,
-  "gitSyncId": "65ca4542630a3b0fe346112a_65ca457c630a3b0fe3461164"
+  "gitSyncId": "65ca4bb5ed35db48922c3cc6_65ca4f42ed35db48922c3e03"
 }
